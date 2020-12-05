@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A202SGI_CS2_Assignment</string>
+    <string name="login_text">Inti </string>
+    <string name="title_text">Booking Discussion Room</string>
+    <string name="name">Name</string>
+    <string name="update_profile_section">Update Profile Section</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_id_e_g_p18001234">Student ID (E.g. P18001234)</string>
+    <string name="update">Update</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a202sgi_cs2_assignment">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".AdminViewUserReview"></activity>
+        <activity android:name=".UserReview" />
+        <activity android:name=".AdminViewUserBooking" />
+        <activity android:name=".UserGoogleMapRouteInti" />
+        <activity android:name=".UserUpdateProfile" />
+        <activity android:name=".UserChatDiscussion" />
+        <activity android:name=".UserSetting" />
+        <activity android:name=".UserViewHistory" />
+        <activity android:name=".UserChat" />
+        <activity android:name=".UserBooking" />
+        <activity android:name=".AdminMainPage" />
+        <activity android:name=".UserMainPage" />
+        <activity android:name=".ForgetPassword" />
+        <activity android:name=".RegisterUserAcc" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBQSYnilIReTYuNqewCnP4uXNXpAThOe_E" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+</manifest>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143622497910",
+    "firebase_url": "https://a202sgi-cs2-assignment.firebaseio.com",
+    "project_id": "a202sgi-cs2-assignment",
+    "storage_bucket": "a202sgi-cs2-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143622497910:android:1f886a1078fc782ab82157",
+        "android_client_info": {
+          "package_name": "com.example.a202sgi_cs2_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143622497910-gr1d3qfst432j5hujh6gd7om2grjitu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHhhiyQq7XHxpwqV8xckP8UwKQXJ6sXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143622497910-gr1d3qfst432j5hujh6gd7om2grjitu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
